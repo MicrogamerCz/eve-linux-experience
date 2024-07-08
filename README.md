@@ -24,3 +24,7 @@ Some dependencies might be missing. Hyprshot and wlogout are not in official rep
 
 ### Showcase
 ![](https://raw.githubusercontent.com/MicrogamerCz/eve-linux-experience/🚧-insomnia-🚧/screenshots/insomnia.png)
+![](https://raw.githubusercontent.com/MicrogamerCz/eve-linux-experience/🚧-insomnia-🚧/screenshots/insomnia3.png)
+![](https://raw.githubusercontent.com/MicrogamerCz/eve-linux-experience/🚧-insomnia-🚧/screenshots/insomnia4.png)
+![](https://raw.githubusercontent.com/MicrogamerCz/eve-linux-experience/🚧-insomnia-🚧/screenshots/insomnia5.png)
+![](https://raw.githubusercontent.com/MicrogamerCz/eve-linux-experience/🚧-insomnia-🚧/screenshots/insomnia2.png)
