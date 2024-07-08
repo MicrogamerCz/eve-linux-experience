@@ -4,7 +4,7 @@ Collection of small and minimal dotfiles inspired by Eve's MVs
 
 Will there be any GTK/QT/VSCode theme? Maybe in the distant future... :)
 
-## 🚧 [インソムニア](https://github.com/MicrogamerCz/eve-linux-experience/branch/%F0%9F%9A%A7-insomnia-%F0%9F%9A%A7) 🚧
+## 🚧 [インソムニア](https://github.com/MicrogamerCz/eve-linux-experience/tree/%F0%9F%9A%A7-insomnia-%F0%9F%9A%A7) 🚧
 
 I used awesome [1amSimp1e's dots](https://github.com/1amSimp1e/dots) (Summer theme) for Waybar and Kitty as a template and changed the style and layout
 
