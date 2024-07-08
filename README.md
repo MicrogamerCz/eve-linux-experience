@@ -8,6 +8,14 @@ I used awesome [1amSimp1e's dots](https://github.com/1amSimp1e/dots) (Summer the
 
 'wallpapers' folder contains frames taken out of the インソムニア MV. Currently there are only 6 out of 57, because I'm manually erasing the lyrics for each one of them
 
+If you decide to use my dots, check and edit the binds and edit your preferred programs!
+- Ctrl+Q → terminal (Kitty)
+- Ctrl+E → file manager (Dolphin)
+- Meta → launcher (Wofi)
+- Meta+Shift+Q → browser (Librewolf)
+- Meta+W → text editor (KWrite)
+- Meta+C → closes program
+
 ### Dependencies
 ```
 sudo pacman -S hyprland hyprshot hyprpaper kitty waybar dunst wofi wlogout pamixer brightnessctl ttf-font-awesome
