@@ -1,0 +1,102 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+    "type": "kitty-direct",
+    "source": "~/.local/share/fastfetch/logos/fuchi",
+    "width": 35,
+    "height": 15
+  },
+  "display": {
+    "separator": "",
+    "color": "white"
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "key": "インソムニア",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "separator",
+      "outputColor": "yellow"
+    },
+    {
+      "type": "os",
+      "outputColor": "dim_yellow",
+      "keyColor": "yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "kernel",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "packages",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "shell",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "wm",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "theme",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "icons",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "font",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "cursor",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "terminal",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "cpu",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "gpu",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    },
+    {
+      "type": "memory",
+      "keyColor": "yellow",
+      "outputColor": "dim_yellow",
+      "keyWidth": 12
+    }
+  ]
+}

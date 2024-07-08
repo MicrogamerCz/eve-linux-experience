@@ -1,0 +1,53 @@
+* {
+	/* font-family: JetBrainsMono Nerd Font; */
+	font-size: 18;
+	background-image: none;
+	box-shadow: none;
+	text-shadow: none;
+	font-weight: bold;
+}
+
+window { background-color: rgba(12, 12, 12, 0.9); }
+
+button {
+    border-radius: 0;
+    border-color: black;
+	color: #022221;
+	background-color: #E9AC2D;
+	border-style: none;
+	border-width: 1px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 35%;
+}
+
+button:focus, button:active, button:hover {
+	background-color: #022036;/*#710F0F;*/
+	color: #9D1515;
+}
+
+#logout {
+	border-radius: 10% 0% 0% 10%;
+	background-image: image(url("./logout.svg"));
+	margin: 12rem 0rem 12rem 16rem;
+}
+button:focus#logout, button:active#logout, button:hover#logout {
+	background-image: image(url("./logout_hover.svg"));
+}
+
+#shutdown {
+    background-image: image(url("./shutdown.svg"));
+	margin: 12rem 0rem 12rem 0rem;
+}
+button:focus#shutdown, button:active#shutdown, button:hover#shutdown {
+	background-image: image(url("./shutdown_hover.svg"));
+}
+
+#reboot {
+	border-radius: 0% 10% 10% 0%;
+    background-image: image(url("./reboot.svg"));
+	margin: 12rem 16rem 12rem 0rem;
+}
+button:focus#reboot, button:active#reboot, button:hover#reboot {
+	background-image: image(url("./reboot_hover.svg"));
+}
